@@ -129,7 +129,7 @@
     <item>
      <widget class="QCheckBox" name="check_copy">
       <property name="text">
-       <string>Copy? (default: move)</string>
+       <string>&amp;Copy? (default: move)</string>
       </property>
      </widget>
     </item>
